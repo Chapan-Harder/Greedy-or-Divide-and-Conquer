@@ -11,9 +11,9 @@
 </p>
 
 <h3>عکس‌ها</h3>
-<img src="1.png" alt="1.png" width="300"/>
-<img src="2.png" alt="2.png" width="300"/>
-<img src="3.png" alt="3.png" width="300"/>
+<img src="1.png" alt="1.png" width="500"/>
+<img src="2.png" alt="2.png" width="500"/>
+<img src="3.png" alt="3.png" width="500"/>
 
 </div>
 
@@ -27,6 +27,8 @@ ___
 **This project is designed on the Linux operating system, and if you have any problems running the project (on Windows or Mac), you can watch the recorded video or read the PDF file.**
 
 ### Pictures
-<img src="1.png" alt="1.png" width="300"/>
-<img src="2.png" alt="2.png" width="300"/>
-<img src="3.png" alt="3.png" width="300"/>
+<div>
+<img src="1.png" alt="1.png" width="500"/>
+<img src="2.png" alt="2.png" width="500"/>
+<img src="3.png" alt="3.png" width="500"/>
+</div>
