@@ -11,9 +11,9 @@
 </p>
 
 <h3>عکس‌ها</h3>
-<img src="1.png" alt="1.png" width="500"/>
-<img src="2.png" alt="2.png" width="500"/>
-<img src="3.png" alt="3.png" width="500"/>
+<img src="1.png" alt="1.png" width="400"/>
+<img src="2.png" alt="2.png" width="400"/>
+<img src="3.png" alt="3.png" width="400"/>
 
 </div>
 
@@ -28,7 +28,7 @@ ___
 
 ### Pictures
 <div>
-<img src="1.png" alt="1.png" width="500"/>
-<img src="2.png" alt="2.png" width="500"/>
-<img src="3.png" alt="3.png" width="500"/>
+<img src="1.png" alt="1.png" width="400"/>
+<img src="2.png" alt="2.png" width="400"/>
+<img src="3.png" alt="3.png" width="400"/>
 </div>
